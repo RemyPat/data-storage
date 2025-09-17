@@ -1,0 +1,302 @@
+[
+  {
+    "ProductID": "P001",
+    "Name": "Sports Item 1",
+    "Category": "Sports",
+    "Price": 1755.11
+  },
+  {
+    "ProductID": "P002",
+    "Name": "Sports Item 2",
+    "Category": "Sports",
+    "Price": 1690.49
+  },
+  {
+    "ProductID": "P003",
+    "Name": "Home Appliances Item 3",
+    "Category": "Home Appliances",
+    "Price": 993.27
+  },
+  {
+    "ProductID": "P004",
+    "Name": "Furniture Item 4",
+    "Category": "Furniture",
+    "Price": 979.44
+  },
+  {
+    "ProductID": "P005",
+    "Name": "Clothing Item 5",
+    "Category": "Clothing",
+    "Price": 1569.39
+  },
+  {
+    "ProductID": "P006",
+    "Name": "Sports Item 6",
+    "Category": "Sports",
+    "Price": 240.34
+  },
+  {
+    "ProductID": "P007",
+    "Name": "Furniture Item 7",
+    "Category": "Furniture",
+    "Price": 1058.76
+  },
+  {
+    "ProductID": "P008",
+    "Name": "Clothing Item 8",
+    "Category": "Clothing",
+    "Price": 1756.94
+  },
+  {
+    "ProductID": "P009",
+    "Name": "Electronics Item 9",
+    "Category": "Electronics",
+    "Price": 1233.53
+  },
+  {
+    "ProductID": "P010",
+    "Name": "Electronics Item 10",
+    "Category": "Electronics",
+    "Price": 971.18
+  },
+  {
+    "ProductID": "P011",
+    "Name": "Home Appliances Item 11",
+    "Category": "Home Appliances",
+    "Price": 1409.81
+  },
+  {
+    "ProductID": "P012",
+    "Name": "Electronics Item 12",
+    "Category": "Electronics",
+    "Price": 444.64
+  },
+  {
+    "ProductID": "P013",
+    "Name": "Sports Item 13",
+    "Category": "Sports",
+    "Price": 1530.11
+  },
+  {
+    "ProductID": "P014",
+    "Name": "Sports Item 14",
+    "Category": "Sports",
+    "Price": 351.16
+  },
+  {
+    "ProductID": "P015",
+    "Name": "Clothing Item 15",
+    "Category": "Clothing",
+    "Price": 1613.63
+  },
+  {
+    "ProductID": "P016",
+    "Name": "Sports Item 16",
+    "Category": "Sports",
+    "Price": 914.82
+  },
+  {
+    "ProductID": "P017",
+    "Name": "Electronics Item 17",
+    "Category": "Electronics",
+    "Price": 65.82
+  },
+  {
+    "ProductID": "P018",
+    "Name": "Furniture Item 18",
+    "Category": "Furniture",
+    "Price": 888.82
+  },
+  {
+    "ProductID": "P019",
+    "Name": "Furniture Item 19",
+    "Category": "Furniture",
+    "Price": 1942.24
+  },
+  {
+    "ProductID": "P020",
+    "Name": "Home Appliances Item 20",
+    "Category": "Home Appliances",
+    "Price": 1372.49
+  },
+  {
+    "ProductID": "P021",
+    "Name": "Furniture Item 21",
+    "Category": "Furniture",
+    "Price": 400.95
+  },
+  {
+    "ProductID": "P022",
+    "Name": "Furniture Item 22",
+    "Category": "Furniture",
+    "Price": 701.13
+  },
+  {
+    "ProductID": "P023",
+    "Name": "Sports Item 23",
+    "Category": "Sports",
+    "Price": 638.09
+  },
+  {
+    "ProductID": "P024",
+    "Name": "Home Appliances Item 24",
+    "Category": "Home Appliances",
+    "Price": 1972.07
+  },
+  {
+    "ProductID": "P025",
+    "Name": "Furniture Item 25",
+    "Category": "Furniture",
+    "Price": 34.5
+  },
+  {
+    "ProductID": "P026",
+    "Name": "Furniture Item 26",
+    "Category": "Furniture",
+    "Price": 61.64
+  },
+  {
+    "ProductID": "P027",
+    "Name": "Home Appliances Item 27",
+    "Category": "Home Appliances",
+    "Price": 243.45
+  },
+  {
+    "ProductID": "P028",
+    "Name": "Sports Item 28",
+    "Category": "Sports",
+    "Price": 792.16
+  },
+  {
+    "ProductID": "P029",
+    "Name": "Home Appliances Item 29",
+    "Category": "Home Appliances",
+    "Price": 1912.32
+  },
+  {
+    "ProductID": "P030",
+    "Name": "Home Appliances Item 30",
+    "Category": "Home Appliances",
+    "Price": 288.06
+  },
+  {
+    "ProductID": "P031",
+    "Name": "Sports Item 31",
+    "Category": "Sports",
+    "Price": 1218.53
+  },
+  {
+    "ProductID": "P032",
+    "Name": "Sports Item 32",
+    "Category": "Sports",
+    "Price": 1529.03
+  },
+  {
+    "ProductID": "P033",
+    "Name": "Sports Item 33",
+    "Category": "Sports",
+    "Price": 82.81
+  },
+  {
+    "ProductID": "P034",
+    "Name": "Electronics Item 34",
+    "Category": "Electronics",
+    "Price": 1304.38
+  },
+  {
+    "ProductID": "P035",
+    "Name": "Electronics Item 35",
+    "Category": "Electronics",
+    "Price": 1471.5
+  },
+  {
+    "ProductID": "P036",
+    "Name": "Electronics Item 36",
+    "Category": "Electronics",
+    "Price": 687.92
+  },
+  {
+    "ProductID": "P037",
+    "Name": "Clothing Item 37",
+    "Category": "Clothing",
+    "Price": 474.44
+  },
+  {
+    "ProductID": "P038",
+    "Name": "Clothing Item 38",
+    "Category": "Clothing",
+    "Price": 312.53
+  },
+  {
+    "ProductID": "P039",
+    "Name": "Sports Item 39",
+    "Category": "Sports",
+    "Price": 146.85
+  },
+  {
+    "ProductID": "P040",
+    "Name": "Furniture Item 40",
+    "Category": "Furniture",
+    "Price": 1062.61
+  },
+  {
+    "ProductID": "P041",
+    "Name": "Home Appliances Item 41",
+    "Category": "Home Appliances",
+    "Price": 1236.36
+  },
+  {
+    "ProductID": "P042",
+    "Name": "Clothing Item 42",
+    "Category": "Clothing",
+    "Price": 1953.14
+  },
+  {
+    "ProductID": "P043",
+    "Name": "Sports Item 43",
+    "Category": "Sports",
+    "Price": 534.93
+  },
+  {
+    "ProductID": "P044",
+    "Name": "Clothing Item 44",
+    "Category": "Clothing",
+    "Price": 667.51
+  },
+  {
+    "ProductID": "P045",
+    "Name": "Sports Item 45",
+    "Category": "Sports",
+    "Price": 263.59
+  },
+  {
+    "ProductID": "P046",
+    "Name": "Clothing Item 46",
+    "Category": "Clothing",
+    "Price": 301.94
+  },
+  {
+    "ProductID": "P047",
+    "Name": "Clothing Item 47",
+    "Category": "Clothing",
+    "Price": 1250.82
+  },
+  {
+    "ProductID": "P048",
+    "Name": "Clothing Item 48",
+    "Category": "Clothing",
+    "Price": 1352.39
+  },
+  {
+    "ProductID": "P049",
+    "Name": "Clothing Item 49",
+    "Category": "Clothing",
+    "Price": 1469.78
+  },
+  {
+    "ProductID": "P050",
+    "Name": "Electronics Item 50",
+    "Category": "Electronics",
+    "Price": 936.22
+  }
+]
