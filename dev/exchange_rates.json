@@ -1,0 +1,34 @@
+[
+    {
+        "Currency": "USD",
+        "RateToUSD": 1
+    },
+    {
+        "Currency": "EUR",
+        "RateToUSD": 0.92
+    },
+    {
+        "Currency": "GBP",
+        "RateToUSD": 0.79
+    },
+    {
+        "Currency": "INR",
+        "RateToUSD": 83.12
+    },
+    {
+        "Currency": "JPY",
+        "RateToUSD": 147.55
+    },
+    {
+        "Currency": "AUD",
+        "RateToUSD": 1.52
+    },
+    {
+        "Currency": "CAD",
+        "RateToUSD": 1.36
+    },
+    {
+        "Currency": "BRL",
+        "RateToUSD": 5.12
+    }
+]
